@@ -1,0 +1,85 @@
+ Volume in drive C is OS
+ Volume Serial Number is 067A-DFCA
+
+ Directory of C:\Users\Sumit
+
+01/07/2019  12:14 PM    <DIR>          .
+01/07/2019  12:14 PM    <DIR>          ..
+07/19/2018  10:48 PM    <DIR>          .3T
+05/13/2015  12:11 AM    <DIR>          .android
+10/12/2011  10:21 PM               145 .appletviewer
+07/25/2018  09:12 PM                 0 .dbshell
+03/17/2018  01:06 PM    <DIR>          .eclipse
+05/27/2017  11:58 AM    <DIR>          .idlerc
+07/03/2017  03:41 PM    <DIR>          .ipynb_checkpoints
+06/03/2017  04:17 PM    <DIR>          .ipython
+06/16/2017  12:08 PM    <DIR>          .jupyter
+05/01/2018  12:43 AM    <DIR>          .m2
+07/03/2017  03:44 PM    <DIR>          .matplotlib
+07/25/2018  07:54 PM                 0 .mongorc.js
+02/16/2014  04:33 PM    <DIR>          .myeclipse
+04/05/2014  02:29 PM               120 .myeclipse.properties
+11/24/2011  10:58 PM    <DIR>          .net.sf.jadclipse
+01/07/2019  11:37 AM    <DIR>          .p2
+06/23/2018  02:03 PM    <DIR>          .pylint.d
+08/01/2018  09:11 PM    <DIR>          .sonarlint
+06/13/2017  12:30 PM    <DIR>          .spyder-py3
+03/17/2018  12:42 PM    <DIR>          .tooling
+06/07/2017  01:24 PM    <DIR>          .vscode
+06/03/2017  04:10 PM    <DIR>          Anaconda3
+06/16/2016  03:29 PM    <DIR>          Contacts
+01/07/2019  12:08 PM    <DIR>          Desktop
+07/03/2017  04:17 PM             3,242 Discrete uniform Distributions.ipynb
+03/09/2018  12:32 AM    <DIR>          Documents
+01/04/2019  12:05 PM    <DIR>          Downloads
+09/10/2017  05:41 PM    <DIR>          dwhelper
+06/16/2016  03:29 PM    <DIR>          Favorites
+09/22/2018  10:47 AM    <DIR>          git
+03/02/2012  10:54 AM            16,678 IRCTC Ltd,Booked Ticket Printing.htm
+03/02/2012  10:54 AM    <DIR>          IRCTC Ltd,Booked Ticket Printing_files
+06/19/2017  01:23 PM             4,136 Laecture11-Universal Array Functions.ipynb
+06/16/2017  12:36 PM             1,680 Lecture 4.ipynb
+06/17/2017  06:37 PM             5,836 Lecture 7- Creating Arrays.ipynb
+06/19/2017  12:10 PM             5,555 Lecture10- array transposition.ipynb
+06/20/2017  12:35 PM            67,153 Lecture12- Array Processing.ipynb
+06/20/2017  12:52 PM             4,327 Lecture13-Array imput and output.ipynb
+06/21/2017  01:46 PM             9,012 Lecture14-series.ipynb
+06/22/2017  12:10 PM            11,968 Lecture15-DataFrame.ipynb
+06/22/2017  01:09 PM            13,689 Lecture25- Reading and Writing Text Files.ipynb
+06/22/2017  03:15 PM            38,525 Lecture27 - HTML with Python.ipynb
+06/23/2017  04:28 PM            35,239 Lecture29 - Merge.ipynb
+06/25/2017  12:30 PM            18,767 Lecture30 - Merge on Index.ipynb
+06/25/2017  10:09 PM            16,085 Lecture31 - Concatenate.ipynb
+06/26/2017  11:47 AM             2,579 Lecture37 - Replace .ipynb
+06/26/2017  12:02 PM            10,822 Lecture38 - Rename Index.ipynb
+06/26/2017  12:31 PM             3,046 Lecture39 - Binning.ipynb
+06/26/2017  02:42 PM            15,000 Lecture40 - Outliers.ipynb
+06/26/2017  04:02 PM             6,734 Lecture41 - Permutation.ipynb
+06/27/2017  12:59 PM            23,557 Lecture42 - Groupby on DataFrames.ipynb
+06/28/2017  11:55 AM             6,320 Lecture46 -  Cross-Tabulation.ipynb
+06/28/2017  02:53 PM            65,660 Lecture48 - Histograms.ipynb
+06/29/2017  03:34 PM           312,950 Lecture49 - Kernel Density Estimation Plots.ipynb
+06/30/2017  01:07 PM            74,355 Lecture50 - Combining Plot Styles.ipynb
+07/01/2017  02:05 PM            64,110 Lecture51 - Box and Violin plots.ipynb
+07/01/2017  02:04 PM           285,909 Lecture52 - Regression Plots.ipynb
+06/17/2017  06:53 PM             3,079 Lecture8 - using arrays and scalars.ipynb
+06/18/2017  01:36 PM            12,318 Lecture9 - Indexing arrays.ipynb
+11/02/2018  12:43 PM    <DIR>          Links
+07/02/2017  12:53 PM            13,341 ListenData_PythonDataStructures.ipynb
+11/02/2018  12:43 PM    <DIR>          Music
+06/20/2017  12:37 PM               100 myarray.npy
+06/20/2017  12:50 PM               150 mytextarray.txt
+06/22/2017  12:53 PM                78 mytextdata_out.csv
+05/12/2018  01:21 PM    <DIR>          Pictures
+06/16/2016  03:29 PM    <DIR>          Saved Games
+07/01/2017  12:32 PM    <DIR>          seaborn-data
+06/16/2016  03:29 PM    <DIR>          Searches
+01/07/2019  12:14 PM                 0 Text1.txt
+12/24/2015  02:19 PM    <DIR>          Tracing
+07/03/2017  02:50 PM             1,381 Untitled.ipynb
+07/07/2017  06:16 PM    <DIR>          Videos
+05/04/2011  10:35 AM    <DIR>          workspace
+02/15/2013  03:02 PM    <DIR>          Workspaces
+06/20/2017  12:47 PM               414 ziparray.npz
+              40 File(s)      1,154,060 bytes
+              38 Dir(s)   8,642,895,872 bytes free
